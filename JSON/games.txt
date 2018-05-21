@@ -1,0 +1,84 @@
+[
+    {
+       
+        "sGameName": "Unknown Pharaon",
+        "sGameGenre": ["Dobrodružné","Nenáročné","Prieskum prostredia"],
+        "sGameDescription": "„Neznámy faraón“ vás ponorí do neuveriteľného dobrodružstva v úlohe archeológov, ktorí skúmajú starobylú egyptskú pyramídu. Dešifrujte pravé egyptské hieroglyfy. Objavte staroveké egyptské artefakty. Dajte si pozor na pasce.",
+        "sGameMainPicture": "MainPicture.jpg",
+        "sGameImages": ["ukp.jpg","ukp2.jpg","ukp3.jpg","ukp4.jpg","ukp5.jpg","ukp6.jpg"],
+        "sGameImagesSlideshow": ["ukp.jpg","ukp2.jpg","ukp3.jpg","ukp4.jpg","ukp5.jpg","ukp6.jpg"],
+        "sGameVideos": ["i0N-BVGRRuU?controls=1"]
+    },
+    {
+       
+        "sGameName": "ZOMBIE Training Simulator",
+        "sGameGenre": ["Akčné","Nenáročné","Strieľačka"],
+        "sGameDescription": "„Naozaj ste pripravení na apokalypsu zombie? Zombie Training Simulator je dominantný a najrozvinutejší nástrojna prípravu obrany proti zombie na svete. Vzdelávame vás pomocou zbraní, taktík a scenárov z reálneho sveta, aby ste sa uistili, že ste dobre pripravený, keď príde apokalyptický deň,zastaviť zombie a prežiť..",
+        "sGameMainPicture": "MainPicture.jpg",
+        "sGameImages": ["zomb.jpg","zomb1.jpg","zomb2.jpg","zomb3.jpg","zomb4.jpg"],
+        "sGameImagesSlideshow": ["zomb.jpg","zomb1.jpg","zomb2.jpg","zomb3.jpg","zomb4.jpg"],
+        "sGameVideos": ["ivR9aPNNpDE?controls=1"]
+    },
+    {
+       
+        "sGameName": "ANNO 1500",
+        "sGameGenre": ["Simulácie","Nenáročné","Prieskum prostredia"],
+        "sGameDescription": "Preniesť sa strojom času 500 rokov dozadu? Spoznávať ako žili ľudia kedysi. Aj to je možné vo virtualnej realite. Zaži to na vlastnej koži...",
+        "sGameMainPicture": "MainPicture.jpg",
+        "sGameImages": ["1anno1500.jpg","2anno1500.jpg","3anno1500.jpg","4anno1500.jpg","5anno1500.jpg","6anno1500.jpg"],
+        "sGameImagesSlideshow": ["1anno1500.jpg","2anno1500.jpg","3anno1500.jpg","4anno1500.jpg","5anno1500.jpg","6anno1500.jpg"],
+        "sGameVideos": ["chD7hQtlWnk?controls=1"]
+    },
+    {
+       
+        "sGameName": "Richies Plank Experience",
+        "sGameGenre": ["Simulácie","Nenáročné","Vo výškach"],
+        "sGameDescription": "Bojíte sa výšky? Tu môžete zažiť skok z výšky 160 metrov, lietanie medzi mrakodrapmi , pohľad z výšky a prekonať strach. Nechajte sa vyviezť výťahom.",
+        "sGameMainPicture": "MainPicture.jpg",
+        "sGameImages": ["richEx.jpg","richEx1.jpg","richEx2.jpg","richEx3.jpg","richEx4.jpg"],
+        "sGameImagesSlideshow": ["richEx.jpg","richEx1.jpg","richEx2.jpg","richEx3.jpg","richEx4.jpg"],
+        "sGameVideos": ["7IHawkLhYog?controls=1"]
+    },
+    {
+       
+        "sGameName": "Google Earth VR",
+        "sGameGenre": ["Poznávacie","Nenáročné","Simulácia","Cestovateľské"],
+        "sGameDescription": "Ako vidieť a zažiť rôzne miesta na svete? Pozrieť mestá, hory, jazerá či púšte? Vo virtuálnej realite Google Earth VR sa to dá za chvíľku.",
+        "sGameMainPicture": "MainPicture.jpg",
+        "sGameImages": ["gearth.jpg","gearth1.jpg","gearth2.jpg","gearth3.jpg","gearth4.jpg","gearth5.jpg","gearth6.jpg","gearth7.jpg","gearth8.jpg","gearth9.jpg","gearth10.jpg","gearth11.jpg"],
+        "sGameImagesSlideshow": ["gearth.jpg","gearth1.jpg","gearth2.jpg","gearth3.jpg","gearth4.jpg","gearth5.jpg","gearth6.jpg","gearth7.jpg","gearth8.jpg","gearth9.jpg","gearth10.jpg","gearth11.jpg"],
+        "sGameVideos": ["SCrkZOx5Q1M?controls=1"]
+    },
+    {
+       
+        "sGameName": "Everest",
+        "sGameGenre": ["Dobrodružné","Nenáročné","Simulácia"],
+        "sGameDescription": "Vyskúšajte aké je to vyliezť na Mount Everest , ako sa dostať na vrchol sveta. Neporovnateľný, vizuálne verný zážitok, ktorý je aj citovo ohromujúci.",
+        "sGameMainPicture": "MainPicture.jpg",
+        "sGameImages": ["everest.jpg","everest1.jpg","everest2.jpg","everest3.jpg","everest4.jpg","everest5.jpg","everest6.jpg"],
+        "sGameImagesSlideshow": ["everest.jpg","everest1.jpg","everest2.jpg","everest3.jpg","everest4.jpg","everest5.jpg","everest6.jpg"],
+        "sGameVideos": ["iTlnm8Jn6_c?controls=1"]
+    },
+    {
+       
+        "sGameName": "The Lab",
+        "sGameGenre": ["Dobrodružné","Nenáročné","Simulácia","Poznávacie"],
+        "sGameDescription": "Vitajte v laboratóriu, kde sa nachádza kompilácia VR hier. Najdete tu obranu hradu streľbou z luku, pohľad do vesmíru, skenovanie ľudského tela, hru s robotickým psom v rôznych exotických lokalitách, opravu robota , kalibráciu dela a ďalšie zaujmavé zážitky.",
+        "sGameMainPicture": "MainPicture.jpg",
+        "sGameImages": ["lab.jpg","lab1.jpg","lab3.jpg","lab4.jpg","lab5.jpg","lab6.jpg","lab7.jpg"],
+        "sGameImagesSlideshow": ["lab.jpg","lab1.jpg","lab3.jpg","lab4.jpg","lab5.jpg","lab6.jpg","lab7.jpg"],
+        "sGameVideos": ["BpKCBkb-g_Q?controls=1"]
+    },
+    {
+       
+        "sGameName": "The Blu",
+        "sGameGenre": ["Dobrodružné","Nenáročné","Simulácia","Poznávacie"],
+        "sGameDescription": "Fascinuje Ťa podmorský svet? Krásy a nástrahy mora si môžeš pozrieť v TheBlu.Vybrať si môžeš z troch epizód: 1. Stretnutie s veľrybou. 2. Migrácia korytnačiek v útesoch. 3. Svetielkujúca priepasť.",
+        "sGameMainPicture": "MainPicture.jpg",
+        "sGameImages": ["blu1.jpg","blu2.jpg","blu3.jpg","blu4.jpg","blu5.jpg","blu6.jpg","blu7.jpg"],
+        "sGameImagesSlideshow": ["blu1.jpg","blu2.jpg","blu3.jpg","blu4.jpg","blu5.jpg","blu6.jpg","blu7.jpg"],
+        "sGameVideos": ["EJTGfi4jiCQ?controls=1"]
+    }
+    
+    
+]
